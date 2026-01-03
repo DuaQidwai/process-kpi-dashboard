@@ -80,7 +80,7 @@ Each request is evaluated against its priority-specific SLA to determine complia
 
 ## Analysis
 
-### End-toEnd Cycle Time Performance
+### End-to-End Cycle Time Performance
 Cycle time was calculated at the request level by summing the time elapsed between consecutive process stages from submission through closure. This metric captures the full customer-facing duration of a request and serves as the primary indicator of operational efficiency. While average cycle time provides a useful baseline, it masks significant variability across individual request. As a result, percentile-based metrics were incorporated to better understand performance risk and long-tail behavior.
 
 ### Variability and Tail Risk (P90 Analysis)
