@@ -139,7 +139,7 @@ Concise, decision-oriented insights are embedded directly in the dashboard to gu
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python** – core programming language
 - **Pandas** – data transformation and aggregation
@@ -148,7 +148,7 @@ Concise, decision-oriented insights are embedded directly in the dashboard to gu
 
 ---
 
-## ▶️ How to Run Locally
+## How to Run Locally
 
 1. Clone the repository:
    ```bash
